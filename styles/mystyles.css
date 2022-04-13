@@ -1,0 +1,23 @@
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.resumeitems{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+}
+.job{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.socialmedia{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+}
+.contact{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    text-align: center;
+}
